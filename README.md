@@ -7,5 +7,5 @@ Código realizado para la tarea #1
 ### Archivos
 - ejercicio #1 - [ejercicio1.ipynb](ejercicio1.ipynb)
 
-> [!NOTE]
+> [!EJERCICIO 1]
 > Key information users need to know to achieve their goal.
